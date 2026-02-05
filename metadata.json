@@ -1,0 +1,8 @@
+{
+  "name": "InstaOut Pro",
+  "description": "A feature-rich Instagram clone with integrated AI generation for posts, stories, and videos using Gemini and Veo.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
